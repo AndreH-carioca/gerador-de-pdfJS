@@ -1,0 +1,11 @@
+
+h1 {
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	
+}
+
+button {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-radius: 20px;
+	cursor: pointer;
+}
